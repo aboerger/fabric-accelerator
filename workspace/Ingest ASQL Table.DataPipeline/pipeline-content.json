@@ -1057,7 +1057,7 @@
       },
       "BronzeWorkspaceID": {
         "type": "string",
-        "defaultValue": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec"
+        "defaultValue": "d8e5d536-29d4-4628-92c4-68619f587aff"
       }
     },
     "variables": {
